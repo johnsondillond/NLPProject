@@ -11,3 +11,7 @@ Project with Reagan Hill and Teancum Price within CS-5615/CS-6615 TEAMWORK cours
     - https://www.deweydata.io/blog/consumer-edge-credit-and-debit-card-data-for-economic-and-business-research
       - Available via signing in with and verifying university email.
       - https://app.deweydata.io/data/safegraph/spend-patterns/spend (Great option with over 80M data points, has TopCategory and SubCategory of transaction too.)
+- Stack Overflow Questions and Quality Rating
+  - https://www.kaggle.com/datasets/imoore/60k-stack-overflow-questions-with-quality-rate
+- Diplomacy Game with Deception
+  - https://sites.google.com/view/qanta/projects/diplomacy?pli=1
