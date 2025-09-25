@@ -16,7 +16,7 @@ We would like to do some natural language processing on the titles, bodies, and 
 
 ## Evaluation Expected
 
-We will do some comparisons between the bodies of the questions to see if there are any patterns there. We'll also do the same with the titles. From there we would also like to see if either the titles or the bodies are a better predictor of a high quality post.
+We will do some comparisons between the bodies of the questions to see if there are any patterns there. We'll also do the same with the titles. From there we would also like to see if either the titles or the bodies are a better predictor of a high quality post. We will utilize a plethora of models for evaluating the Stack Overflow dataset via PyCaret along with other modeling types, such as Neural Networks via PyTorch.
 
 ## Division of Roles
 
