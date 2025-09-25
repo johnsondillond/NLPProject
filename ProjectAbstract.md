@@ -1,6 +1,4 @@
-# Title
-
-Exploring What Makes a High Quality Stack Overflow Question
+# Exploring What Makes a High Quality Stack Overflow Question
 
 ## Motivation
 
@@ -8,7 +6,7 @@ We would like to know what makes a Stack Overflow post "high quality". With Stac
 
 ## Goal
 
-Our goal to find whether or not there are key characterstics that lead to a highly ranked Stack Overflow post. If theses characteristics exist, we would like to be able to define them in a way that could be utilized by any question poster. If we can't find any characterstics, we would like to be able to definitively say that they don't exist. 
+Our goal to find whether or not there are key characterstics that lead to a highly ranked Stack Overflow post. If theses characteristics exist, we would like to be able to define them in a way that could be utilized by any question poster. If we can't find any characterstics, we would like to be able to definitively say that they don't exist.
 
 ## Proposed Method
 
