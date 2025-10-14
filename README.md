@@ -15,3 +15,7 @@ Project with Reagan Hill and Teancum Price within CS-5615/CS-6615 TEAMWORK cours
   - https://www.kaggle.com/datasets/imoore/60k-stack-overflow-questions-with-quality-rate
 - Diplomacy Game with Deception
   - https://sites.google.com/view/qanta/projects/diplomacy?pli=1
+
+  ## Project Report
+
+  - https://www.overleaf.com/5623159412qcnwjhzjszxm#3a1be3 (change to read only once everyone has access)
