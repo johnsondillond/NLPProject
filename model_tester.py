@@ -116,7 +116,7 @@ X_test_vec = tfidf_vectorizer.transform(clear_X_test)
 #*### Encoding Labels ####
 encoder = LabelEncoder()
 y_train_encoded = encoder.fit_transform(y_train)
-y_test_encoded = encoder.fit_transform(y_test)
+y_test_encoded = encoder.transform(y_test)
 results = []
 
 #?### KNN ####
